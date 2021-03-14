@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/taxi2thailandConsole/static/css/main.9375872c.chunk.css",
-    "main.js": "/taxi2thailandConsole/static/js/main.3ba20321.chunk.js",
-    "main.js.map": "/taxi2thailandConsole/static/js/main.3ba20321.chunk.js.map",
-    "runtime-main.js": "/taxi2thailandConsole/static/js/runtime-main.b2fe3820.js",
-    "runtime-main.js.map": "/taxi2thailandConsole/static/js/runtime-main.b2fe3820.js.map",
-    "static/js/2.816fe4df.chunk.js": "/taxi2thailandConsole/static/js/2.816fe4df.chunk.js",
-    "static/js/2.816fe4df.chunk.js.map": "/taxi2thailandConsole/static/js/2.816fe4df.chunk.js.map",
-    "static/js/3.68daa83b.chunk.js": "/taxi2thailandConsole/static/js/3.68daa83b.chunk.js",
-    "static/js/3.68daa83b.chunk.js.map": "/taxi2thailandConsole/static/js/3.68daa83b.chunk.js.map",
-    "index.html": "/taxi2thailandConsole/index.html",
-    "static/css/main.9375872c.chunk.css.map": "/taxi2thailandConsole/static/css/main.9375872c.chunk.css.map",
-    "static/js/2.816fe4df.chunk.js.LICENSE.txt": "/taxi2thailandConsole/static/js/2.816fe4df.chunk.js.LICENSE.txt"
+    "main.css": "/taxi2thailand-console/static/css/main.9375872c.chunk.css",
+    "main.js": "/taxi2thailand-console/static/js/main.3ba20321.chunk.js",
+    "main.js.map": "/taxi2thailand-console/static/js/main.3ba20321.chunk.js.map",
+    "runtime-main.js": "/taxi2thailand-console/static/js/runtime-main.a28943c8.js",
+    "runtime-main.js.map": "/taxi2thailand-console/static/js/runtime-main.a28943c8.js.map",
+    "static/js/2.06f946e9.chunk.js": "/taxi2thailand-console/static/js/2.06f946e9.chunk.js",
+    "static/js/2.06f946e9.chunk.js.map": "/taxi2thailand-console/static/js/2.06f946e9.chunk.js.map",
+    "static/js/3.68daa83b.chunk.js": "/taxi2thailand-console/static/js/3.68daa83b.chunk.js",
+    "static/js/3.68daa83b.chunk.js.map": "/taxi2thailand-console/static/js/3.68daa83b.chunk.js.map",
+    "index.html": "/taxi2thailand-console/index.html",
+    "static/css/main.9375872c.chunk.css.map": "/taxi2thailand-console/static/css/main.9375872c.chunk.css.map",
+    "static/js/2.06f946e9.chunk.js.LICENSE.txt": "/taxi2thailand-console/static/js/2.06f946e9.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.b2fe3820.js",
-    "static/js/2.816fe4df.chunk.js",
+    "static/js/runtime-main.a28943c8.js",
+    "static/js/2.06f946e9.chunk.js",
     "static/css/main.9375872c.chunk.css",
     "static/js/main.3ba20321.chunk.js"
   ]
