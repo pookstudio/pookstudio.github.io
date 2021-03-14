@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/taxi2thailand-console/static/css/main.9375872c.chunk.css",
-    "main.js": "/taxi2thailand-console/static/js/main.aaab6553.chunk.js",
-    "main.js.map": "/taxi2thailand-console/static/js/main.aaab6553.chunk.js.map",
-    "runtime-main.js": "/taxi2thailand-console/static/js/runtime-main.a28943c8.js",
-    "runtime-main.js.map": "/taxi2thailand-console/static/js/runtime-main.a28943c8.js.map",
-    "static/js/2.06f946e9.chunk.js": "/taxi2thailand-console/static/js/2.06f946e9.chunk.js",
-    "static/js/2.06f946e9.chunk.js.map": "/taxi2thailand-console/static/js/2.06f946e9.chunk.js.map",
-    "static/js/3.68daa83b.chunk.js": "/taxi2thailand-console/static/js/3.68daa83b.chunk.js",
-    "static/js/3.68daa83b.chunk.js.map": "/taxi2thailand-console/static/js/3.68daa83b.chunk.js.map",
+    "main.js": "/taxi2thailand-console/static/js/main.c5ab7355.chunk.js",
+    "main.js.map": "/taxi2thailand-console/static/js/main.c5ab7355.chunk.js.map",
+    "runtime-main.js": "/taxi2thailand-console/static/js/runtime-main.a89abadc.js",
+    "runtime-main.js.map": "/taxi2thailand-console/static/js/runtime-main.a89abadc.js.map",
+    "static/js/2.da503c97.chunk.js": "/taxi2thailand-console/static/js/2.da503c97.chunk.js",
+    "static/js/2.da503c97.chunk.js.map": "/taxi2thailand-console/static/js/2.da503c97.chunk.js.map",
+    "static/js/3.400698ab.chunk.js": "/taxi2thailand-console/static/js/3.400698ab.chunk.js",
+    "static/js/3.400698ab.chunk.js.map": "/taxi2thailand-console/static/js/3.400698ab.chunk.js.map",
     "index.html": "/taxi2thailand-console/index.html",
     "static/css/main.9375872c.chunk.css.map": "/taxi2thailand-console/static/css/main.9375872c.chunk.css.map",
-    "static/js/2.06f946e9.chunk.js.LICENSE.txt": "/taxi2thailand-console/static/js/2.06f946e9.chunk.js.LICENSE.txt"
+    "static/js/2.da503c97.chunk.js.LICENSE.txt": "/taxi2thailand-console/static/js/2.da503c97.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.a28943c8.js",
-    "static/js/2.06f946e9.chunk.js",
+    "static/js/runtime-main.a89abadc.js",
+    "static/js/2.da503c97.chunk.js",
     "static/css/main.9375872c.chunk.css",
-    "static/js/main.aaab6553.chunk.js"
+    "static/js/main.c5ab7355.chunk.js"
   ]
 }
