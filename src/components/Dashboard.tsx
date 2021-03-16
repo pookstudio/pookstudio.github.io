@@ -1,10 +1,8 @@
 import React from "react";
 import { db } from "../firebase";
-import { useAuth } from "../contexts/AuthContext";
+import { Link } from "react-router-dom";
 
 export default function Dashboard() {
-  const { user, logout }: any = useAuth();
-
   async function getData() {
     const url = await db
       .collection("pricingTable")
@@ -32,11 +30,9 @@ export default function Dashboard() {
   }, []);
 
   return (
-    <div>
+    <React.Fragment>
       Dashboard
-      <h1>{user.displayName}</h1>
-      <strong>email: {user.email}</strong>
-      <button onClick={logout}>Logout</button>
-    </div>
+      <Link to="/about">About</Link>
+    </React.Fragment>
   );
 }
